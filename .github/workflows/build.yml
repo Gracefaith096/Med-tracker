@@ -21,3 +21,4 @@ jobs:
         with:
           name: med-tracker-apk
           path: app/build/outputs/apk/debug/app-debug.apk
+# rebuild
